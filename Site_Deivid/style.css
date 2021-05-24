@@ -5,9 +5,8 @@ body {
     margin: auto;
 }
 
-.photo {
-    border: 1px solid #505050
-    border-radius: 50%;
+ .photo {
+    border: 1px solid #505050;
 }
 
 #title, .subtitle, .post_title {
@@ -22,8 +21,9 @@ body {
 a {
     text-decoration: line-through;
     color: #505050;
+}
 
-}.post_title {
+.post_title {
     font-size: 16px;
     font-style: italic;
     margin: 0;
